@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author leand
+ * @author Leandro Oliveira
  */
 public class TCP implements Serializable {
 

@@ -7,7 +7,7 @@ package com.gennis.servervnc;
 
 /**
  *
- * @author leand
+ * @author Leandro Oliveira
  */
 public class TelaInstanceCliente {
     

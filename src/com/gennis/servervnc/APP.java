@@ -21,7 +21,7 @@ import javax.xml.bind.DatatypeConverter;
 
 /**
  *
- * @author leand
+ * @author Leandro Oliveira
  */
 public class APP extends javax.swing.JFrame {
 

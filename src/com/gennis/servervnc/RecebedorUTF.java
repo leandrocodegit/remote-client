@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author MONITORAMENTO
+ * @author Leandro Oliveira
  */
 public class RecebedorUTF implements Runnable {
 

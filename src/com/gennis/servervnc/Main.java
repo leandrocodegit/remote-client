@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author leand
+ * @author Leandro Oliveira
  */
 public class Main {
     

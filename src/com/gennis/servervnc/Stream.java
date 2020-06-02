@@ -10,7 +10,7 @@ import java.awt.Toolkit;
 
 /**
  *
- * @author leand
+ * @author Leandro Oliveira
  * Inicia uma trasmissão da tela para o servidor rmtp
  * Este projeo visa controle pea interface web
  * O stream é transmitido para um servidor red5  e disponibilizado via WEBRTC

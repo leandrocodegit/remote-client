@@ -8,16 +8,14 @@ package com.gennis.servervnc;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.PrintStream;
-import java.net.InetAddress;
 import java.net.InetSocketAddress;
-import java.net.NetworkInterface;
 import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
  *
- * @author MONITORAMENTO
+ * @author Leandro Oliveira
  */
 
 public class ClienteServidor implements Runnable {
@@ -114,7 +112,7 @@ public class ClienteServidor implements Runnable {
 
     }
 
-    //Requera o endereço MAC do compuador para enviar ao servidor
+    //Recuera o endereço MAC do compuador para enviar ao servidor
     public TCP getMAC() {
 
         TCP request = new TCP();
